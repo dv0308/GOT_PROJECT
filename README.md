@@ -1,2 +1,2 @@
 # GOT_PROJECT
-Back End Server to fetch data from graph database
+Back End Server to fetch data from graph database.
